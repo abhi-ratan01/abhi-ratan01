@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ratan Prajapati</h1>
 <h3 align="center">work for learing.</h3>
-<img align="right" width = "400px" height = "400px" alt="Coding" src = "E:\PYTHON\PW Skills\developer.jpg">
+<img align="right" width = "400px" height = "400px" alt="Coding" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2bNk0tVoiySWmzzvyWMmrT&ust=1678388003059000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCx-deAzf0CFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ratan01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ratan01" /> </p>
 
 - 🔭 I’m currently working on **Till-Sixty(Collage Project)**
