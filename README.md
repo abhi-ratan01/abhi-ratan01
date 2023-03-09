@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ratan Prajapati</h1>
 <h3 align="center">work for learing.</h3>
-<img align="right" width=400 alt="Coding" src="developer.jpg">
+<img align="right" width=400 height=300 alt="Coding" src="developer.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ratan01&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ratan01" /> </p>
 
 - 🔭 I’m currently working on **Till-Sixty(Collage Project)** - 🌱 I’m currently learning **Python basic and advance** - 💬 Ask me about **Web development(frontend),C and C++** - 📫 How to reach me **ratanprajapati312@gmail.com**
